@@ -1,0 +1,394 @@
+[
+    {
+      "title":"C.V. Raman Global University",
+      "description":"Some description",
+      "courses":[
+        "Bachelors in Technology",
+        "Master in Business and Administration",
+        "Diploma"
+      ],
+      "city":"Bhubaneshwar",
+      "state":"Odisha",
+      "email":"admin@cgu-odisha.ac.in",
+      "phone":"9456979934",
+      "established": "1997",
+      "type":"Private",
+      "lat":20.2193,
+      "lng":85.7358,
+      "home_image":"https://cgu-odisha.ac.in/wp-content/uploads/2020/04/about-cgu1-1-scaled.jpg",
+      "homepage":"https://cgu-odisha.ac.in/",
+      "vr": [
+              {
+                "location":"Location 1",
+                "image":"https://cloudflare1.360gigapixels.com/pano/johngore/00581539_01-2-jpg/equirect_crop_3_1/6.jpg"
+              },
+              {
+                "location": "Location 2", 
+                "image": "https://l13.alamy.com/360/R652NJ/grodno-belarus-february-18-2012-full-360-degree-seamless-panorama-in-equirectangular-spherical-equidistant-projection-panorama-in-interior-of-tr-R652NJ.jpg"
+              },
+              {
+                  "location": "Location 3", 
+                  "image": "https://cgu-odisha.ac.in/wp-content/uploads/2020/04/campus.png"
+              }
+            ]
+    },
+    {
+      "title":"Institue of Technical Education and Research",
+      "description":"Some description",
+      "courses":[
+        "Bachelors in Technology",
+        "Master in Business and Administration"
+      ],
+      "city":"Bhubaneshwar",
+      "state":"Odisha",
+      "email":"admin@iter.ac.in",
+      "phone":"8776979934",
+      "established": "2000",
+      "type":"Private",
+      "lat":20.2493,
+      "lng":85.8011,
+      "home_image":"https://images.squarespace-cdn.com/content/v1/57713a8e2994cae381dd86fe/1647673457416-9QXAF1WG466JS12MGKEI/DJI_0114.jpg?format=2500w",
+      "homepage":"https://www.soa.ac.in/iter",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://i.pinimg.com/originals/a7/f2/5a/a7f25a644bdbc1044fe869432f58dc32.jpg"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://www.robinson.cam.ac.uk/sites/production.robinson.cam.ac.uk/files/siteassets/conferences/Auditorium1.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://cgu-odisha.ac.in/wp-content/uploads/2020/04/campus.png"
+        }
+      ]
+    },
+    {
+      "title":"Centurion University of Technology",
+      "description":"Some description",
+      "courses":[
+        "Bachelors in Technology",
+        "Hotel Management"
+      ],
+      "city":"Bhubaneshwar",
+      "state":"Odisha",
+      "email":"admin@centurion.ac.in",
+      "phone":"5678979934",
+      "established": "2010",
+      "type":"Private",
+      "lat":20.1759,
+      "lng":85.7062,
+      "home_image":"https://i2.wp.com/orissadiary.com/wp-content/uploads/2017/09/Centurion-University-of-Technology-and-Management.jpg?fit=1000%2C475&ssl=1",
+      "homepage":"https://cutm.ac.in/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://www.london360.de/wp-content/uploads/2017/10/RoyalNavalCollege-1024x183.jpg"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/janmaglasang/00530247_Pano--6--tif/equirect_crop_3_1/6.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/ctrees/01673539_standrews-014-360c-jpg/equirect_crop_3_1/6.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Ravenshaw University",
+      "description":"Some description",
+      "courses":[
+        "Bachelors in Technology",
+        "Media, Mass communication, and Journalism",
+        "Commerce"
+      ],
+      "city":"Cuttack",
+      "state":"Odisha",
+      "email":"admin@ravenshaw.ac.in",
+      "phone":"5678979934",
+      "established": "2006",
+      "type":"Private",
+      "lat":20.4635,
+      "lng":85.8959,
+      "home_image":"https://images.shiksha.com/mediadata/images/1630257194phpT51T5x_1280x960.jpg",
+      "homepage":"https://ravenshawuniversity.ac.in/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://media.gettyimages.com/photos/glass-house-panaroma-picture-id984139414?s=2048x2048"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://l13.alamy.com/360/R652NJ/grodno-belarus-february-18-2012-full-360-degree-seamless-panorama-in-equirectangular-spherical-equidistant-projection-panorama-in-interior-of-tr-R652NJ.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://www.robinson.cam.ac.uk/sites/production.robinson.cam.ac.uk/files/siteassets/conferences/Auditorium1.jpg"
+        }
+      ]
+    },
+    {
+      "title":"National Law University",
+      "description":"Some description",
+      "courses":[
+        "BA LLB Hons",
+        "BBA LLB Hons"
+      ],
+      "city":"Cuttack",
+      "state":"Odisha",
+      "email":"admin@law.ac.in",
+      "phone":"5678979934",
+      "established": "2009",
+      "type":"Government",
+      "lat":20.4853,
+      "lng":85.7917,
+      "home_image":"https://images.shiksha.com/mediadata/images/1537856392phpoSyVEP.png",
+      "homepage":"https://www.nluo.ac.in/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://www.london360.de/wp-content/uploads/2017/10/RoyalNavalCollege-1024x183.jpg"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/janmaglasang/00530247_Pano--6--tif/equirect_crop_3_1/6.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/ctrees/01673539_standrews-014-360c-jpg/equirect_crop_3_1/6.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Ajay Binay Institute of Technology",
+      "description":"Some description",
+      "courses":[
+        "Computer Application and IT",
+        "Management and Business Administration"
+      ],
+      "city":"Cuttack",
+      "state":"Odisha",
+      "email":"admin@law.ac.in",
+      "phone":"5678979934",
+      "established": "2009",
+      "type":"Private",
+      "home_image":"https://college4u.in/wp-content/uploads/2017/01/AJV.jpg",
+      "lat":20.4698,
+      "lng":85.8506,
+      "homepage":"https://abit.edu.in/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://media.gettyimages.com/photos/glass-house-panaroma-picture-id984139414?s=2048x2048"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://l13.alamy.com/360/R652NJ/grodno-belarus-february-18-2012-full-360-degree-seamless-panorama-in-equirectangular-spherical-equidistant-projection-panorama-in-interior-of-tr-R652NJ.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://www.robinson.cam.ac.uk/sites/production.robinson.cam.ac.uk/files/siteassets/conferences/Auditorium1.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Anna University",
+      "description":"Some description",
+      "courses":[
+        "Animation and Design",
+        "Computer Application and IT",
+        "Art, Humanities and Social Science"
+      ],
+      "city":"Chennai",
+      "state":"Tamil Nadu",
+      "email":"admin@anna.ac.in",
+      "phone":"5678979934",
+      "established": "2009",
+      "type":"Government",
+      "lat":13.0127,
+      "lng":80.2364,
+      "home_image":"https://images.edexlive.com/uploads/user/imagelibrary/2021/1/22/original/UNFILLED_SEATS_WORRY.jpg",
+      "homepage":"https://www.annauniv.edu/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://media.gettyimages.com/photos/glass-house-panaroma-picture-id984139414?s=2048x2048"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://l13.alamy.com/360/R652NJ/grodno-belarus-february-18-2012-full-360-degree-seamless-panorama-in-equirectangular-spherical-equidistant-projection-panorama-in-interior-of-tr-R652NJ.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://www.robinson.cam.ac.uk/sites/production.robinson.cam.ac.uk/files/siteassets/conferences/Auditorium1.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Alliance University",
+      "description":"Alliance University is a private university that was established in the state of Karnataka by act no. 34 of year 2010    under the recognition of University Grants Commission of Ministry of Education.",
+      "courses":[
+        "Animation and Design",
+        "Computer Application and IT",
+        "Art, Humanities and Social Science"
+      ],
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "email":"admin@anna.ac.in",
+      "phone":"080 4619 9000",
+      "established": "2009",
+      "type":"Government",
+      "lat":12.73047,
+      "lng":77.70651,
+      "homepage":"https://www.alliance.edu.in/",
+      "home_image":"https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/28_08_2018_05_42_24_4011853.jpg?width=920&format=webp",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://www.london360.de/wp-content/uploads/2017/10/RoyalNavalCollege-1024x183.jpg"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/janmaglasang/00530247_Pano--6--tif/equirect_crop_3_1/6.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/ctrees/01673539_standrews-014-360c-jpg/equirect_crop_3_1/6.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Gandhi Institute of Technology and Management",
+      "description":"Gandhi Institute of Technology and Management, popularly known as GITAM, was founded in 1980 by an inspired group of eminent intellectuals and industrialists of Andhra Pradesh led by Dr. M. V. V. S. Murthi, former Member of Parliament and popular philanthropist.The vision of MAHATMA, the Father of the Nation was to see India as a socially and economically resurgent country and he looked upon education as an important means to achieve this goal. Gandhijis view of education was not narrow or sectarian. He envisaged universities as institutions of higher learning that transcend all linguistic, racial and other barriers. GITAM is committed to imbibe his values and abide by his philosophy.",
+      "courses":[
+        "Animation and Design",
+        "Computer Application and IT",
+        "Art, Humanities and Social Science"
+      ],
+      "city":"Visakhapatnam",
+      "state":"Andhra Pradesh",
+      "email":"admin@anna.ac.in",
+      "phone":"0891-2840501",
+      "established": "2009",
+      "type":"Government",
+      "lat":17.7816,
+      "lng":83.3775,
+      "home_image":"https://www.edufever.com/wp-content/uploads/2019/06/Gitam-institute-of-medical-sciences-and-research-visakhapatnam.jpg",
+      "homepage":"https://www.gitam.edu/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://media.gettyimages.com/photos/glass-house-panaroma-picture-id984139414?s=2048x2048"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://l13.alamy.com/360/R652NJ/grodno-belarus-february-18-2012-full-360-degree-seamless-panorama-in-equirectangular-spherical-equidistant-projection-panorama-in-interior-of-tr-R652NJ.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://www.robinson.cam.ac.uk/sites/production.robinson.cam.ac.uk/files/siteassets/conferences/Auditorium1.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Don Bosco Institute of Technology",
+      "description":"Don Bosco Institute of Technology since its inception in 2001, has built a reputation for having set high benchmarks in quality and commitment. The premier institute, which is affiliated to VTU, Belagavi, enriches the landscape of technical education by offering UG (BE) Programmes in Computer Science, Information Science, Electronics and Communication, Electrical and Electronics, Telecommunication, Mechanical and Civil Engineering. It also offers an MBA Programme.",
+      "courses":[
+        "Animation and Design",
+        "Computer Application and IT",
+        "Art, Humanities and Social Science"
+      ],
+      "city":"Bangalore",
+      "state":"Karnataka",
+      "email":"admissions@donboscobangalore.education",
+      "phone":"9900-361-100",
+      "established": "2009",
+      "home_image":"https://images.collegedunia.com/public/college_data/images/appImage/1627723439Screenshot20210731123954.png?mode=stretch",
+      "type":"Government",
+      "lat":12.88259,
+      "lng":77.4453,
+      "homepage":"https://dbit.co.in/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://www.london360.de/wp-content/uploads/2017/10/RoyalNavalCollege-1024x183.jpg"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/janmaglasang/00530247_Pano--6--tif/equirect_crop_3_1/6.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/ctrees/01673539_standrews-014-360c-jpg/equirect_crop_3_1/6.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Birla Institute of Technology & Science",
+      "description":"The Birla Institute of Technology & Science, BITS Pilani is an all-India Institute for higher education. The primary motive of BITS is to train young men and women able and eager to create and put into action such ideas, methods, techniques and information. The Institute is a dream come true of its founder late Mr G.D.Birla - an eminent industrialist, a participant in Indian freedom struggle and a close associate of the Father of Indian Nation late Mr. Mohandas Karamchand Gandhi (Mahatma Gandhi). What started in early 1900s as a small school, blossomed into a set of colleges for higher education, ranging from the Humanities to Engineering until 1964 when all these colleges amalgamated to culminate into a unique Indian University of International standing. This university was christened as the Birla Institute of Technology and Science, Pilani, known to many as BITS, Pilani.",
+      "courses":[
+        "Animation and Design",
+        "Computer Application and IT",
+        "Art, Humanities and Social Science"
+      ],
+      "city":"Pilani",
+      "state":"Rajasthan",
+      "email":"admissions@donboscobangalore.education",
+      "phone":"+91 1596 245073",
+      "established": "2009",
+      "type":"Government",
+      "lat":28.35917,
+      "lng":75.58810,
+      "home_image":"https://www.bits-pilani.ac.in/Uploads/Pilani/pilanimanagementadmin/Gallery/2019-3-3--0-46-32-245_43375021_2258639734354556_1707337409550614528_n.jpg",
+      "homepage":"https://www.bits-pilani.ac.in/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://media.gettyimages.com/photos/glass-house-panaroma-picture-id984139414?s=2048x2048"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://l13.alamy.com/360/R652NJ/grodno-belarus-february-18-2012-full-360-degree-seamless-panorama-in-equirectangular-spherical-equidistant-projection-panorama-in-interior-of-tr-R652NJ.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://www.robinson.cam.ac.uk/sites/production.robinson.cam.ac.uk/files/siteassets/conferences/Auditorium1.jpg"
+        }
+      ]
+    },
+    {
+      "title":"Loyola College",
+      "description":"Loyola College, a Catholic Minority Institution, was founded by the Society of Jesus (Jesuits) in 1925, with the primary objective of providing University Education in a Christian atmosphere for deserving students irrespective of caste and creed. It started functioning in July 1925 with just 75 students on the rolls in three undergraduate courses of Mathematics, History and Economics.Loyola College, though affiliated to University of Madras, became autonomous in July 1978. It is autonomous, in the sense that it is empowered to frame its own course of studies and adopt innovative methods of teaching and evaluation. The University degrees will be conferred on the students passing the examinations conducted by the college. UGC conferred the status of “College with potential for Excellence” on Loyola College in 2004 and confirmed the same in 2010. NAAC's re-accreditation score in 2012 (Third Cycle) is 3.70 out of 4.00 CGPA. UGC has elevated Loyola College to the status of College of Excellence for the period from April 1, 2014 till March 31, 2019. Today, there are 19 P.G courses and 19 U.G courses (Arts, Sciences and Commerce) and 12 special Institutes offering various programs to 12,107 students. 11 departments are offering M.Phil. programs and 12 departments offer Ph.D. programs. At present, 117 teaching staff members out of 286 hold doctoral degree. There are 182 non-teaching staff in service.",
+      "courses":[
+        "Animation and Design",
+        "Computer Application and IT",
+        "Art, Humanities and Social Science"
+      ],
+      "home_image":"https://www.thenewsminute.com/sites/default/files/LoyolaCollege_Chennai_Facebook_23122020_1200.jpg",
+      "city":"Chennai",
+      "state":"Tamil Nadu",
+      "email":"admissions@loyola.education",
+      "phone":"+91 1596 245073",
+      "established": "2009",
+      "type":"Government",
+      "lat":13.0644,
+      "lng": 80.2338,
+      "homepage":"https://www.loyolacollege.edu/",
+      "vr": [
+        {
+          "location":"Location 1",
+          "image":"https://www.london360.de/wp-content/uploads/2017/10/RoyalNavalCollege-1024x183.jpg"
+        },
+        {
+            "location": "Location 2", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/janmaglasang/00530247_Pano--6--tif/equirect_crop_3_1/6.jpg"
+        },
+        {
+            "location": "Location 3", 
+            "image": "https://cloudflare1.360gigapixels.com/pano/ctrees/01673539_standrews-014-360c-jpg/equirect_crop_3_1/6.jpg"
+        }
+      ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "title":"IIIT Bhubaneswar",
+        "description":"About the Institute IIIT Bhubaneswar owes its origins to the initiative of the Government Odisha. It is a result of the desire of the Government to establish a world class institute of Information Technology in the state. The Institute has been registered as a society in Nov 2006. In January 2014, the Institute is converted to a University by the Government of Odisha.",
+        "courses":[
+          "Bachelors in Technology",
+          "Diploma",
+          "Master in Computer Applications"
+        ],
+        "city":"Bhubaneswar",
+        "state":"Odisha",
+        "email":"admin@iiit.ac.in",
+        "phone":"72829749287",
+        "established": "2014",
+        "type":"Semi-Government",
+        "lat":23.6546,
+        "lng":86.4737,
+        "home_image":"https://media-exp1.licdn.com/dms/image/C561BAQF0wBqNjfL8TQ/company-background_10000/0/1626719934411?e=2147483647&v=beta&t=DTE8BxmU0Id9ecBQ2ZwGr-ox19uOWg6doltOau2YemI",
+        "homepage":"https://www.iiit-bh.ac.in/university/about",
+        "vr": [
+                {
+                  "location":"Location 1",
+                  "image":"https://i.ibb.co/5hJjq4z/Whats-App-Image-2022-04-27-at-19-04-36.jpg"
+                },
+                {
+                  "location": "Location 2", 
+                  "image": "https://i.ibb.co/BZS8wk2/Whats-App-Image-2022-04-27-at-19-04-35-1.jpg"
+                },
+                {
+                  "location": "Location 3", 
+                  "image": "https://i.ibb.co/CMbCrv9/iiit-360.jpg"
+                }
+              ]
+      }
+]

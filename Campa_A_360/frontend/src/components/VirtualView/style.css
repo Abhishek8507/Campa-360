@@ -1,0 +1,24 @@
+.vr{
+    display: flex;
+    flex-direction: row ;
+}
+
+.sidebar{
+    font-family:"Roboto";
+    color:white;
+    background-color: hsl(202, 69%, 64%);
+    /* color: #0277BD; */
+    color: #fff;
+    flex:0.15;
+    height:100vh;
+    border-right: 2px solid #0277BD;
+}
+.sidebar > p{
+    padding: 10px;
+    border-bottom: 2px solid #0277BD;
+}
+.right{
+    padding:2px;
+    flex:0.85;
+    height:100vh;
+}
